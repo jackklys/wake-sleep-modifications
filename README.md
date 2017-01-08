@@ -4,7 +4,7 @@ Code written in tensorflow and numpy for various modifications of the wake-sleep
 
 # Code
 
-The command python exp_ws.py 'type' runs a variation of the wake-sleep algorithm determined by 'type'. (see ws.py for the full list)
+The command python exp_ws.py 'type' runs a variation of the wake-sleep algorithm determined by 'type' (see ws.py for the full list).
 
 For example:
 
